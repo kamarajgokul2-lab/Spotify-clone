@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <radialGradient id="g6" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#F59E0B" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#1a1200"/>
+    </radialGradient>
+  </defs>
+  <rect width="300" height="300" fill="#1a1200"/>
+  <rect width="300" height="300" fill="url(#g6)"/>
+  <circle cx="150" cy="120" r="50" fill="none" stroke="#F59E0B" stroke-width="3" opacity="0.6"/>
+  <circle cx="150" cy="120" r="20" fill="#F59E0B" opacity="0.9"/>
+  <text x="150" y="200" font-family="Arial" font-size="14" fill="white" text-anchor="middle" opacity="0.7">GK Music</text>
+  <text x="150" y="225" font-family="Arial" font-size="24" fill="#F59E0B" text-anchor="middle">&#9835;</text>
+</svg>
